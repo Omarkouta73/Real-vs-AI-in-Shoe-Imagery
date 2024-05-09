@@ -13,8 +13,7 @@ https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-i
 
 **Models:**
 1. KNN. (Omar)
-2. Linear Classifier (MSSE) -> IMPOSSIBLE.
-3. Decision Trees. (Wesam)
-4. Random Forest. (Fawzi)
-5. Naive Bayes. (Omar)
-6. ANN/CNN. (Khaled + Mohsen)
+2. Decision Trees. (Wesam)
+3. Random Forest. (Fawzi)
+4. Naive Bayes. (Omar)
+5. ANN/CNN. (Khaled + Mohsen)
