@@ -12,13 +12,16 @@ https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-i
 4. Report. (Wesam)
 
 **Models:**
-1. KNN. (Omar)
-2. Decision Trees. (Wesam)
-3. Random Forest./XGBoost (Fawzi)
-4. Naive Bayes. (Omar)
-5. ANN/CNN. (Khaled + Mohsen)
-6. Logistic Regression. (Wesam)
-7. SVM. (Fawzi)
+- SciKit Learn
+    -Naive Bayes. 
+    -KNN.  
+    -SVM.
+    -Decision Trees. 
+    -Random Forest.
+    -Logistic Regression. 
+ 
+XGBoost 
+ANN/CNN. 
 
 
 **Stages:**
@@ -31,4 +34,6 @@ https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-i
 6. report.
 
 **Done:**
-1. prepare data
+1. Distribute all data into train/valid/test folders with its labels.
+2. preprocessing: 
+    2.1 convert labels into 0/1 (int64)
