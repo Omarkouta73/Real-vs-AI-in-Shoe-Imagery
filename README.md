@@ -13,12 +13,12 @@ https://www.kaggle.com/datasets/sunnykakar/shoes-dataset-real-and-ai-generated-i
 
 **Models:**
 - SciKit Learn
-    -Naive Bayes. 
-    -KNN.  
-    -SVM.
-    -Decision Trees. 
-    -Random Forest.
-    -Logistic Regression. 
+    -Naive Bayes.  ✅
+    -KNN.          ✅
+    -SVM.           ✅
+    -Decision Trees. ✅ 
+    -Random Forest.       ✅
+    -Logistic Regression. ✅ 
  
 XGBoost 
 ANN/CNN. 
